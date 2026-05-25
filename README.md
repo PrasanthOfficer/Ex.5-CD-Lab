@@ -3,7 +3,7 @@
 ## Name : Prasanth T
 ## Register Number : 212224040243
 
-## Date:19/05/2026
+## Date:25/05/2026
 
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
